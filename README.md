@@ -2,8 +2,6 @@
 
 A personal portfolio website built to showcase who I am, what I'm learning, and the projects I'm building. Crafted with curiosity and code.
 
-![Portfolio preview](images/github-social-preview.png)
-
 ## About
 
 I'm a Computer Science Engineering student passionate about technology, programming, and building things that solve real-world problems. This site is my space to share my story, skills, and ways to get in touch.
