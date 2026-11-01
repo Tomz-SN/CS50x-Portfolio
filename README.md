@@ -43,15 +43,6 @@ CS50 Portfolio/
 └── images/
 ```
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   ```
-2. Open the project folder.
-3. Open `index.html` in your browser. No build step or server is needed.
-
 ## Future Improvements
 
 - Add a Projects section with live demos and source links
@@ -62,10 +53,5 @@ CS50 Portfolio/
 
 Find my social media handles and contact details on the Contact page of the site.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 *Always learning, always building.*
