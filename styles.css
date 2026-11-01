@@ -1,0 +1,38 @@
+.rounded-lg-3 {
+  border-radius: 50%;
+  width: 70%;
+  height: 70%;
+  margin: 25px;
+}
+.about_style {
+  margin-left: 60px;
+}
+footer {
+  margin-top: 40px;
+}
+html {
+  scrollbar-gutter: auto;
+}
+html,
+body {
+  overflow-y: auto;
+}
+.navbar-brand {
+  padding-left: 30px;
+  font-size: 20px;
+}
+.cnct-btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+body {
+  background-color: white;
+  color: #101314;
+}
+
+.dark-mode {
+  background-color: #101314;
+  color: white;
+}
